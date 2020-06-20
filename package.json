@@ -1,0 +1,19 @@
+{
+  "name": "schema-generator-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selahattintoprak/schema-generator-js.git"
+  },
+  "author": "Selahattin Toprak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/selahattintoprak/schema-generator-js/issues"
+  },
+  "homepage": "https://github.com/selahattintoprak/schema-generator-js#readme"
+}
